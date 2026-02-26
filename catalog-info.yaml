@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: "my-demo-app"
   annotations:
-    github.com/project-slug: kumarharsh-kk/my-demo-app
+    github.com/project-slug: kumarharsh-kk/backstage
+    github.com/user: kumarharsh-kk
 spec:
   type: service
   owner: user:default/guest
